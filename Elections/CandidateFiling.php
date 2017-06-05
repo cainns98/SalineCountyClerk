@@ -19,10 +19,12 @@
 <body>
     <?php
     echo __DIR__;
-    /*chdir("D:\home\site\wwwroot\");*/
+    $path="D:\home\site\wwwroot\"'; 
+    chdir($path); 
     echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
+    
     ?>
     <div class="container">
         <div class="row">
