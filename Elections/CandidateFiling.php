@@ -20,7 +20,7 @@
     <?php
     echo  "1";
     echo  "2";
-    require 'http://salinecountyclerk.azurewebsites.net/simple_html_dom.php';
+    require_once(__DIR__."/simple_html_dom.php");
     echo  "3";
     echo file_get_html('/partials/nav.html');
     echo  "4"; 
