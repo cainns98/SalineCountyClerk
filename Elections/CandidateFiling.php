@@ -20,7 +20,7 @@
     <?php
     chdir('../');
     require("simple_html_dom.php");
-    echo file_get_html('/partials/nav.html');
+    echo file_get_html('test.html');
     ?>
     <div class="container">
         <div class="row">
