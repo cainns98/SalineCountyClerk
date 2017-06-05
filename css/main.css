@@ -58,4 +58,6 @@ body {
   text-decoration: none !important;
   padding: 0;
   border-width: 0;
+  font-size: 0.85em;
+  z-index: 2;
 }
