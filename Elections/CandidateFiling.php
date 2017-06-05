@@ -20,7 +20,7 @@
     <?php
     echo __DIR__;
     echo getcwd() . "\n";
-    chdir('public_html');
+    chdir('../');
     echo getcwd() . "\n";
     echo __DIR__;
     require("simple_html_dom.php");
