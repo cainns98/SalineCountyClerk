@@ -18,13 +18,9 @@
 
 <body>
     <?php
-    echo "1";
-    echo "2";
-    echo __DIR__;
-    require_once(__DIR__."/simple_html_dom.php");
-    echo "3";
+    chdir("D:\home\site\wwwroot\");
+    require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
-    echo "4"; 
     ?>
     <div class="container">
         <div class="row">
