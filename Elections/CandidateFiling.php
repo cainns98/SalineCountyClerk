@@ -20,6 +20,7 @@
     <?php
     echo __DIR__;
     echo getcwd() . "\n";
+    chdir('public_html');
     echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
