@@ -17,14 +17,14 @@
 </head>
 
 <body>
-    <?php 
+    <?php /*
     echo  "1";
     chdir('http://salinecountyclerk.azurewebsites.net');
     echo  "2";
     require '/simple_html_dom.php';
     echo  "3";
     echo file_get_html('/partials/nav.html');
-    echo  "4";
+    echo  "4"; */
     ?>
     <div class="container">
         <div class="row">
