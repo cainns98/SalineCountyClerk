@@ -18,7 +18,8 @@
 
 <body>
     <?php
-    chdir("D:\home\site\wwwroot\");
+    echo __DIR__;
+    /*chdir("D:\home\site\wwwroot\");*/
     echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
