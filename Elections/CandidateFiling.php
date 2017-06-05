@@ -19,7 +19,7 @@
 <body>
     <?php
     echo __DIR__;
-    set_include_path('/usr/lib/pear');
+    set_include_path('D:\home\site\wwwroot\Elections');
     echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
