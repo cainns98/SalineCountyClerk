@@ -17,7 +17,8 @@
 </head>
 
 <body>
-    <?php 
+    <?php
+    chdir('../');
     require 'simple_html_dom.php';
     echo file_get_html('partials/nav.html');
     ?>
