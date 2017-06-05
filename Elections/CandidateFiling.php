@@ -44,7 +44,7 @@
                             <hr /> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
                         </div>
                     </div>
-                    <div class="panel panel-primary text-center" id="newsAndInfo">
+                    <div class="panel panel-primary text-center">
                         <?php
                         echo file_get_html('partials/newsAndInfo.html');
                         ?>
@@ -61,7 +61,6 @@
         </div>
 
     </footer>
-    <!--<script type="text/javascript" src="js/importNewsAndInfo.js"></script>-->
 </body>
 
 </html>
