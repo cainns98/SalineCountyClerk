@@ -18,6 +18,7 @@
 
 <body>
     <?php 
+    chdir('http://salinecountyclerk.azurewebsites.net');
     require 'simple_html_dom.php';
     echo file_get_html('partials/nav.html');
     ?>
