@@ -19,8 +19,7 @@
 <body>
     <?php
     echo __DIR__;
-    $path="D:\home\site\wwwroot\"'; 
-    chdir($path); 
+    set_include_path('/usr/lib/pear');
     echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
