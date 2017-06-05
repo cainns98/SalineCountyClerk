@@ -53,7 +53,9 @@ body {
   padding-bottom: 3px;
 }
 
-.badge-btn a {
-  color: #fff;
-  text-decoration: none;
+.badge-btn button {
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 0;
+  border-width: 0;
 }
