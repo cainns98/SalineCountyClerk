@@ -37,15 +37,14 @@
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Candidate Reporting Documents</h4>
-                      <a href="#" class="list-group-item">Statement of Financial Interest</a>
-                      <!--<a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
-                          <span class="badge badge-btn"><a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18-I_Statement_of_Financial_Interest_Instr_2015.pdf" target="_blank">Instructions</a></span>
+                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
+                          <span class="badge badge-btn"><button class="btn-link">Instructions</button></span>
                           Statement of Financial Interest
                       </a>
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" target="_blank" class="list-group-item">
-                          <span class="badge badge-btn"><a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04-I_CE_Cnty-Mun-SchBd_Instr_2015.pdf" target="_blank">Instructions</a></span>
+                          <span class="badge badge-btn"><button class="btn-link">Instructions</button></span>
                           Campaign Contribution and Expenditure Report
-                      </a>-->
+                      </a>
                     </div>
                 </div>
             </div>
