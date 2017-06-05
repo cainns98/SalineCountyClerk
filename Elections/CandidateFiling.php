@@ -18,14 +18,9 @@
 
 <body>
     <?php
-    echo __DIR__;
-    echo getcwd() . "\n";
     chdir('../');
-    echo getcwd() . "\n";
-    echo __DIR__;
     require("simple_html_dom.php");
     echo file_get_html('/partials/nav.html');
-    
     ?>
     <div class="container">
         <div class="row">
