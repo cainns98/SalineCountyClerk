@@ -37,6 +37,7 @@
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Candidate Reporting Documents</h4>
+                      <a href="#">Statement of Financial Interest</a>
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
                           <span class="badge badge-btn"><a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18-I_Statement_of_Financial_Interest_Instr_2015.pdf" target="_blank">Instructions</a></span>
                           Statement of Financial Interest
