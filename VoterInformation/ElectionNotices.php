@@ -31,9 +31,7 @@
                     <br />
                     <div class="list-group">
                       <h4 class="list-group-item active">Upcoming Elections</h4>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Cnds/CandidateFiling.pdf" target="_blank" class="list-group-item">2016 Partisan and Nonpartisan</a>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Cnds/CandidateFiling-Municipal.pdf" target="_blank" class="list-group-item">2016 Independent Municipal</a>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Cnds/CandidateFiling-School.pdf" target="_blank" class="list-group-item">2016 School Board</a>
+                      <p class="list-group-item italic">There are Currently no Upcoming Elections</p>
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Past Elections</h4>
