@@ -172,12 +172,102 @@
                               Precinct Report
                           </a>
                         </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Primary – Republican Party – June 10, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140610_PRO_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140610_PRO_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Preferential Primary and Nonpartisan General Election – May 20, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140520_PPNPG_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140520_PPNPG_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Bryant School Special Election – February 11, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140211_SPECBRSD_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140211_SPECBRSD_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
                       </div>
                       <div class="tab-pane fade" id="2013">
-                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                        <br />
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Special Election – Benton & Bryant – November 12, 2013</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20131112_SPEC_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20131112_SPEC_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Annual School Election – September 17, 2013</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20130917_ASE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20130917_ASE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
                       </div>
                       <div class="tab-pane fade" id="2012">
-                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                        <br />
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Runoff Election – November 27, 2012</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20121127_GRO_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20121127_GRO_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election – November 6, 2012</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20121106_GEN_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20121106_GEN_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Annual School Election – September 18, 2012</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120918_ASE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120918_ASE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Primary – Republican Party – June 12, 2012</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120612_PRO_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120612_PRO_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Preferential Primary and Nonpartisan General Election – May 22, 2012</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120522_PPNPG_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20120522_PPNPG_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
                       </div>
                       <div class="tab-pane fade" id="2011">
                         <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
