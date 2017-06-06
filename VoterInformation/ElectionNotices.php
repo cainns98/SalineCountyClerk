@@ -35,11 +35,24 @@
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Past Elections</h4>
-                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
-                          <span class="badge badge-btn">May 9, 2017</span>
-                          Notice of Benton School Special Election
+                      <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Notices/Notice_2017_BNSE.pdf" target="_blank" class="list-group-item">
+                          Notice of Benton School Special Election – May 9, 2017
                       </a>
-                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" target="_blank" class="list-group-item">Campaign Contribution and Expenditure Report</a>
+                      <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Notices/Early_Voting_Benton_Special_School_Election.pdf" target="_blank" class="list-group-item">
+                          Early Voting – Benton School Special Election – May 9, 2017
+                      </a>
+                      <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Notices/Election_Day_Voting_Benton_Special_School_Election.pdf" target="_blank" class="list-group-item">
+                          Election Day Voting – Benton School Special Election – May 9, 2017
+                      </a>
+                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Notices/Notice_2017_BRSE.pdf" target="_blank" class="list-group-item">
+                          Bryant School Special Election – March 14, 2017
+                      </a>
+                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Notices/Notice_2016_GRO.pdf" target="_blank" class="list-group-item">
+                          2016 General Election Runoff – November 29, 2016
+                      </a>
+                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Notices/Notice_2016_Gen.pdf" target="_blank" class="list-group-item">
+                          2016 General Election – November 8, 2016
+                      </a>
                     </div>
                 </div>
             </div>
