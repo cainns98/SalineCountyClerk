@@ -51,7 +51,7 @@ body {
   background-color: #f5f5f5;
 }
 
-/* BADGE BTNS */
+/* BADGE BTNS - DEPRECIATED*/
 
 .badge-btn {
   padding-top: 3px;
@@ -65,4 +65,14 @@ body {
   border-width: 0;
   font-size: 0.85em;
   z-index: 2;
+}
+
+/* SPLIT-LIST-GROUP-ITEM */
+
+.split-list-group-item .left {
+  border-bottom: 1px solid #dddddd;
+}
+
+.split-list-group-item .left.horizontal {
+  border-right: 1px solid #dddddd;
 }
