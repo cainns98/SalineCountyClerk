@@ -36,13 +36,10 @@
                     <div class="list-group">
                       <h4 class="list-group-item active">Past Elections</h4>
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
-                          <span class="badge badge-btn"><button class="btn-link" onclick="location.href='http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18-I_Statement_of_Financial_Interest_Instr_2015.pdf';">With Instructions</button></span>
-                          Statement of Financial Interest
+                          <span class="badge badge-btn">May 9, 2017</span>
+                          Notice of Benton School Special Election
                       </a>
-                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" target="_blank" class="list-group-item">
-                          <span class="badge badge-btn"><button class="btn-link" onclick="location.href='http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04-I_CE_Cnty-Mun-SchBd_Instr_2015.pdf';">With Instructions</button></span>
-                          Campaign Contribution and Expenditure Report
-                      </a>
+                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" target="_blank" class="list-group-item">Campaign Contribution and Expenditure Report</a>
                     </div>
                 </div>
             </div>
