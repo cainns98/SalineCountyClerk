@@ -69,7 +69,7 @@ body {
 
 /* SPLIT-LIST-GROUP-ITEM */
 
-.split-list-group-item .left {
+.split-list-group-item .left.vertical {
   border-bottom: 1px solid #dddddd;
 }
 
