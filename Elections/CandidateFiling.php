@@ -43,10 +43,10 @@
                         <div class="list-group-item split-list-group-item" style="padding: 0px;">
                           <div class="container-fluid">
                             <div class="row">
-                              <div class="col-md-8 left" style="padding: 0px;">
+                              <div class="col-sm-8 left" style="padding: 0px;">
                                 <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Statement of Financial Interest</a>
                               </div>
-                              <div class="col-md-4" style="padding: 0px;">
+                              <div class="col-sm-4" style="padding: 0px;">
                                 <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18-I_Statement_of_Financial_Interest_Instr_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Instructions</a>
                               </div>
                             </div>
@@ -55,10 +55,10 @@
                         <div class="list-group-item split-list-group-item" style="padding: 0px;">
                           <div class="container-fluid">
                             <div class="row">
-                              <div class="col-md-8 left" style="padding: 0px;">
+                              <div class="col-sm-8 left" style="padding: 0px;">
                                 <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Campaign Contribution and Expenditure Report</a>
                               </div>
-                              <div class="col-md-4" style="padding: 0px;">
+                              <div class="col-sm-4" style="padding: 0px;">
                                 <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04-I_CE_Cnty-Mun-SchBd_Instr_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Instructions</a>
                               </div>
                             </div>
