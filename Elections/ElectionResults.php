@@ -49,11 +49,11 @@
                         <br />
                         <div class="list-group">
                           <h4 class="list-group-item active">Benton School Special Election - May 9, 2017</h4>
-                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/EV/Early%20Voting%20-%20Benton%20Special%20School%20Election.pdf" target="_blank" class="list-group-item">
-                              Location, Dates and Times
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170509_BNSE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
                           </a>
-                          <a href="https://docs.google.com/spreadsheets/d/1LI1m4GZbxpOSYADHZPEaBj1NkldW36xU8hRGQrZz0VE/pub?gid=703524298&single=true&output=pdf" target="_blank" class="list-group-item">
-                              Early Voting Turnout
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170509_BNSE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
                           </a>
                         </div>
                         <div class="list-group">
