@@ -98,6 +98,7 @@
         </div>
 
     </footer>
+    <script type="text/javascript" src="js/dividedListGroup.js"></script>
 </body>
 
 </html>
