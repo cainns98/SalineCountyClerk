@@ -144,7 +144,34 @@
                         </div>
                       </div>
                       <div class="tab-pane fade" id="2014">
-                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                        <br />
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Runoff Election – November 25, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20141125_GRO_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20141125_GRO_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election – November 4, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20141104_GEN_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20141104_GEN_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Annual School Election – September 16, 2014</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140916_ASE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20140916_ASE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
                       </div>
                       <div class="tab-pane fade" id="2013">
                         <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
