@@ -46,6 +46,7 @@
                     </ul>
                     <div id="myTabContent" class="tab-content">
                       <div class="tab-pane fade active in" id="2017">
+                        <br />
                         <div class="list-group">
                           <h4 class="list-group-item active">Benton School Special Election - May 9, 2017</h4>
                           <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/EV/Early%20Voting%20-%20Benton%20Special%20School%20Election.pdf" target="_blank" class="list-group-item">
