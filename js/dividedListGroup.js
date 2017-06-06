@@ -1,12 +1,12 @@
 $( document ).ready(function() {
     (function($, viewport){
-        // For XS and SM
-        if( viewport.is('<=sm') ) {
+        // For XS
+        if( viewport.is('<sm') ) {
             $(".split-list-group-item .left").toggleClass( "vertical", true );
         }
 
-        // For MD and LG
-        if( viewport.is('>=md') ) {
+        // For SM, MD, and LG
+        if( viewport.is('>=sm') ) {
             $(".split-list-group-item .left").toggleClass( "horizontal", true );
         }
 
