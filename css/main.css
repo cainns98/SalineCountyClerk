@@ -1,4 +1,7 @@
 /* GENERAL */
+.italic {
+  font-style: italic;
+}
 
 /* INFO PANEL */
 .panel-list-group
