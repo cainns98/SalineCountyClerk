@@ -65,17 +65,62 @@
                           </a>
                         </div>
                         <div class="list-group">
-                          <h4 class="list-group-item active">Bryant School Special Election - March 14, 2017</h4>
-                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/EV/Early%20Voting-Bryant%20School%20Special.pdf" target="_blank" class="list-group-item">
-                              Location, Dates and Times
+                          <h4 class="list-group-item active">Bryant School Special Election – March 14, 2017</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170314_BRSE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
                           </a>
-                          <a href="https://docs.google.com/spreadsheets/d/1e8S1BmI9yZbWkn7Jk70oxDMcm9PXDyM3D3Y5eXNt8Fc/pub?gid=703524298&single=true&output=pdf" target="_blank" class="list-group-item">
-                              Early Voting Turnout
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170314_BRSE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
                           </a>
                         </div>
                       </div>
                       <div class="tab-pane fade" id="2016">
-                        <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
+                        <br />
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election Runoff – November 29, 2016</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20161129_GR16_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20161129_GR16_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election – November 8, 2016</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20161108_G16_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20161108_G16_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Annual School Election – September 20, 2016</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160920_ASE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160920_ASE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">City of Bryant Special Election – August 9, 2016</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160809_BRYSP16_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160809_BRYSP16_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Preferential Primary and Nonpartisan General Election – March 1, 2016</h4>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160301_PPNPG_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Results/AR62_20160301_PPNPG_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
                       </div>
                       <div class="tab-pane fade" id="2015">
                         <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
