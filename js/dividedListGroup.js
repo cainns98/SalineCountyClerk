@@ -13,11 +13,11 @@ $( document ).ready(function() {
         // Execute code each time window size changes
         $(window).resize(
             viewport.changed(function() {
-                if( viewport.is('<=sm') ) {
+                if( viewport.is('<sm') ) {
                     $(".split-list-group-item .left").toggleClass( "vertical", true );
                     $(".split-list-group-item .left").toggleClass( "horizontal", false );
                 }
-                if( viewport.is('>=md') ) {
+                if( viewport.is('>=sm') ) {
                     $(".split-list-group-item .left").toggleClass( "horizontal", true );
                     $(".split-list-group-item .left").toggleClass( "vertical", false );
                 }
