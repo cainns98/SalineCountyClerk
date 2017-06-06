@@ -40,6 +40,18 @@
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Candidate Reporting Documents</h4>
+                      <div class="list-group-item" style="padding: 0px;">
+                          <div class="container-fluid">
+                            <div class="row">
+                              <div class="col-md-8" style="padding: 0px;">
+                                <a href="#" class="list-group-item" style="border: 0px; border-radius: 0px;">test part 1</a>
+                              </div>
+                              <div class="col-md-4" style="padding: 0px;">
+                                <a href="#" class="list-group-item" style="border: 0px; border-radius: 0px;">test part 1</a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18_Statement_of_Financial_Interest_2015.pdf" target="_blank" class="list-group-item">
                           <span class="badge badge-btn"><button class="btn-link" onclick="location.href='http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/18-I_Statement_of_Financial_Interest_Instr_2015.pdf';">With Instructions</button></span>
                           Statement of Financial Interest
