@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Absentee Voting</title>
+    <title>Election Results</title>
     <base href="http://salinecountyclerk.azurewebsites.net">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -30,34 +30,49 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Absentee Voting</h1>
+                    <h1>Election Results</h1>
                     <br />
                     <ul class="nav nav-tabs">
-                      <li class=""><a href="#home" data-toggle="tab" aria-expanded="false">Home</a></li>
-                      <li class="active"><a href="#profile" data-toggle="tab" aria-expanded="true">Profile</a></li>
-                      <li class="disabled"><a>Disabled</a></li>
-                      <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
-                          Dropdown <span class="caret"></span>
-                        </a>
-                        <ul class="dropdown-menu">
-                          <li class=""><a href="#dropdown1" data-toggle="tab" aria-expanded="false">Action</a></li>
-                          <li class="divider"></li>
-                          <li class=""><a href="#dropdown2" data-toggle="tab" aria-expanded="false">Another action</a></li>
-                        </ul>
-                      </li>
+                      <li class="active"><a href="#2017" data-toggle="tab" aria-expanded="true">2017</a></li>
+                      <li class=""><a href="#2016" data-toggle="tab" aria-expanded="false">2016</a></li>
+                      <li class=""><a href="#2015" data-toggle="tab" aria-expanded="false">2015</a></li>
+                      <li class=""><a href="#2014" data-toggle="tab" aria-expanded="false">2014</a></li>
+                      <li class=""><a href="#2013" data-toggle="tab" aria-expanded="false">2013</a></li>
+                      <li class=""><a href="#2012" data-toggle="tab" aria-expanded="false">2012</a></li>
+                      <li class=""><a href="#2011" data-toggle="tab" aria-expanded="false">2011</a></li>
+                      <li class=""><a href="#2010" data-toggle="tab" aria-expanded="false">2010</a></li>
+                      <li class=""><a href="#2009" data-toggle="tab" aria-expanded="false">2009</a></li>
+                      <li class=""><a href="#2008" data-toggle="tab" aria-expanded="false">2008</a></li>
                     </ul>
                     <div id="myTabContent" class="tab-content">
-                      <div class="tab-pane fade" id="home">
+                      <div class="tab-pane fade active in" id="2017">
                         <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
                       </div>
-                      <div class="tab-pane fade active in" id="profile">
+                      <div class="tab-pane fade" id="2016">
                         <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
                       </div>
-                      <div class="tab-pane fade" id="dropdown1">
+                      <div class="tab-pane fade" id="2015">
                         <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
                       </div>
-                      <div class="tab-pane fade" id="dropdown2">
+                      <div class="tab-pane fade" id="2014">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2013">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2012">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2011">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2010">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2009">
+                        <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                      </div>
+                      <div class="tab-pane fade" id="2008">
                         <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
                       </div>
                     </div>
