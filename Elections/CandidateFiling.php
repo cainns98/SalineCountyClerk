@@ -13,13 +13,16 @@
     <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
     <script type="text/javascript" src="js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
+    
+    <?php
+    chdir('../');
+    require 'simple_html_dom.php';
+    echo file_get_html('partials/favicons.html');
+    ?>
 </head>
 
 <body>
     <?php
-    chdir('../');
-    require 'simple_html_dom.php';
     echo file_get_html('partials/nav.html');
     ?>
     <div class="container">
