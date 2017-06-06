@@ -98,6 +98,7 @@
         </div>
 
     </footer>
+    <script type="text/javascript" src="js/bootstrap-toolkit.min.js"></script>
     <script type="text/javascript" src="js/dividedListGroup.js"></script>
 </body>
 
