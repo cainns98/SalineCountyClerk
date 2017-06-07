@@ -31,18 +31,21 @@
             <div class="col-md-9">
                 <div class="container-fluid">
                     <h1>Marriage License Information</h1>
-                    <br />
-                    <div class="list-group">
-                      <h4 class="list-group-item active">Ballot Application</h4>
-                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/AR62_Absentee_Ballot_Application.pdf" target="_blank" class="list-group-item">
-                          Absentee Ballot Application
-                      </a>
-                      <a href="#" target="_blank" class="list-group-item">
-                          Rules & Regulations
-                      </a>
-                      <a href="#" target="_blank" class="list-group-item">
-                          Dates & Deadlines
-                      </a>
+                    <br>
+                    <div class="row">
+                      <div class="col-md-6">
+                         <div class="panel panel-primary text-center">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Basic Information</h3>
+                            </div>
+                            <div class="panel-body">
+                                8:00 AM - 4:30 PM <br> Monday - Friday
+                                <hr> Address:
+                                <br> Saline County Clerk <br> 215 North Main Street <br> Benton, AR 72015 <br>
+                                <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
+                            </div>
+                          </div>
+                      </div>
                     </div>
                     <div class="list-group">
                       <h4 class="list-group-item active">Uniformed and Overseas Citizens Absentee Voting (UOCAVA)</h4>
