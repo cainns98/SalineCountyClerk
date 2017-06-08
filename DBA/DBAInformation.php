@@ -40,7 +40,7 @@
                           Arkansas law require that no person shall conduct or transact business in this state under an assumed name or under any designated name or style, corporate or otherwise, other than the real name of the individual conducting or transacting such business, unless the person files a certificate in the office of the County Clerk.
                           <hr> DBA certificates are filed and recorded in the office of the County Clerk.  A person or persons desiring to file a DBA is required to complete the certificate form and sign it before a notary public.
                           <hr> The filing fee is $25.
-                          <br><br> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
+                          <br> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
                       </div>
                     </div>
                     <div class="list-group">
