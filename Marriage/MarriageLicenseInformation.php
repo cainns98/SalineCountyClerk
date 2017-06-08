@@ -57,7 +57,7 @@
                                     </div>
                                     <div class="panel-body">
                                         Both parties must be present with a valid, government-issued photo I.D.
-                                        <hr> A marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
+                                        <hr> A marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used or unused within sixty (60) days.
                                     </div>
                                 </div>
                                 <div class="panel panel-warning text-center">
@@ -65,8 +65,8 @@
                                         <h3 class="panel-title">For Underage Individuals</h3>
                                     </div>
                                     <div class="panel-body">
-                                        If one or both of those wishing to be married is under the age of 18, both parents must be present. If parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
-                                        <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                        If one or both of those wishing to be married is under the age of 18, both parents must be present. If the parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
+                                        <span style="font-style: italic;">(There is a waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
                                     </div>
                                 </div>
                             </div>
