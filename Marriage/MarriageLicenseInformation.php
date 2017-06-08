@@ -57,7 +57,7 @@
                                     </div>
                                     <div class="panel-body">
                                         Both parties must be present with a valid, government-issued photo I.D.
-                                        <hr> Marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
+                                        <hr> A marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
                                     </div>
                                 </div>
                                 <div class="panel panel-warning text-center">
