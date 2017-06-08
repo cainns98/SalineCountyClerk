@@ -48,7 +48,7 @@
                           </div>
                       </div>
                         <div class="col-md-7">
-                            <div class="container-fluid">
+                            <div class="container-fluid" style="padding: 0px;">
                                 <div class="panel panel-info text-center">
                                     <div class="panel-heading">
                                         <h3 class="panel-title">Remember</h3>
@@ -63,7 +63,7 @@
                                     </div>
                                     <div class="panel-body">
                                         If one or both of those wishing to be married is under the age of 18, both parents must be present. If parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
-                                        <br> <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                        <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
                                     </div>
                                 </div>
                             </div>
