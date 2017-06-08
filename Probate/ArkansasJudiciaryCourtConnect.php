@@ -30,7 +30,7 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Absentee Voting</h1>
+                    <h1>Arkansas Judiciary CourtConnect</h1>
                     <br />
                     <div class="list-group">
                       <h4 class="list-group-item active">Links and Information</h4>
