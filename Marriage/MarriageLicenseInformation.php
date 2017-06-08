@@ -39,10 +39,11 @@
                                 <h3 class="panel-title">Basic Information</h3>
                             </div>
                             <div class="panel-body">
-                                8:00 AM - 4:30 PM <br> Monday - Friday
+                                Hours of issuance: 8:00 – 4:30 <br> (please be here by 4:15 p.m.)
                                 <hr> Address:
-                                <br> Saline County Clerk <br> 215 North Main Street <br> Benton, AR 72015 <br>
+                                <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
+                                <hr> parties must be present with government issued photo I.D.
                             </div>
                           </div>
                       </div>
