@@ -33,7 +33,7 @@
                     <h1>Marriage License Information</h1>
                     <br>
                     <div class="row">
-                      <div class="col-md-6">
+                      <div class="col-md-5">
                          <div class="panel panel-primary text-center">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Basic Information</h3>
@@ -43,18 +43,40 @@
                                 <hr> Address:
                                 <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
-                                <hr> parties must be present with government issued photo I.D.
                             </div>
                           </div>
                       </div>
+                        <div class="col-md-7">
+                            <div class="container-fluid">
+                                <div class="panel panel-info text-center">
+                                    <div class="panel-heading">
+                                        <h3 class="panel-title">Remember</h3>
+                                    </div>
+                                    <div class="panel-body">
+                                        Both parties must be present with government issued photo I.D.
+                                        <hr>
+                                        Marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
+                                    </div>
+                                </div>
+                                <div class="panel panel-warning text-center">
+                                    <div class="panel-heading">
+                                        <h3 class="panel-title">For Underage Individuals</h3>
+                                    </div>
+                                    <div class="panel-body">
+                                        If one or both of those wishing to be married is under the age of 18, both parents must be present. If parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
+                                        <br> <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="list-group">
-                      <h4 class="list-group-item active">Uniformed and Overseas Citizens Absentee Voting (UOCAVA)</h4>
-                      <a href="https://www.fvap.gov/info/laws/uocava" target="_blank" class="list-group-item">
-                          UOCAVA Overview
+                      <h4 class="list-group-item active">Links and Resources</h4>
+                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Marriage/Marriage%20License%20Info.pdf" target="_blank" class="list-group-item">
+                          License Information Sheet
                       </a>
-                      <a href="https://www.fvap.gov/eo/overview" target="_blank" class="list-group-item">
-                          UOCAVA Voting Process
+                      <a href="http://marriage.cisarkansas.com/?C=Saline" target="_blank" class="list-group-item">
+                          Arkansas Marriage License Search
                       </a>
                     </div>
                 </div>
