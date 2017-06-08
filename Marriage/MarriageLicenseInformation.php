@@ -39,11 +39,13 @@
                                 <h3 class="panel-title">Basic Information</h3>
                             </div>
                             <div class="panel-body">
-                                Hours of issuance: 8:00 – 4:30 <br> (please be here by 4:15 p.m.)
+                                Hours of issuance: 8:00 – 4:30 
+                                <br> <span style="font-style: italic;">(please be here by 4:15 p.m.)</span>
                                 <hr> Address:
                                 <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
-                                <hr> Cost is 60.00 (cash, local check, or credit/debit plus $3 processing fee)
+                                <hr> The cost is 60.00 
+                                <hr> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
                             </div>
                           </div>
                       </div>
