@@ -36,15 +36,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <div class="item active"><!-- Courthouse -->
-                <img src="img/Courthouse.JPG" alt="Courthouse" style="width:100%;">
+                <img src="img/Courthouse_optimized.jpg" alt="Courthouse" style="width:100%;">
               </div>
 
               <div class="item"><!-- VOTE HERE -->
-                <img src="img/VoteHere.JPG" alt="Vote Here Building" style="width:100%;">
+                <img src="img/VoteHere_optimized.jpg" alt="Vote Here Building" style="width:100%;">
               </div>
 
               <div class="item"><!-- Ballot Boxes -->
-                <img src="img/BallotBoxes.jpg" alt="Ballot Boxes" style="width:100%;">
+                <img src="img/BallotBoxes_optimized.jpg" alt="Ballot Boxes" style="width:100%;">
               </div>
             </div>
 
