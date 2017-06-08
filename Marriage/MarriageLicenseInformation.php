@@ -43,6 +43,7 @@
                                 <hr> Address:
                                 <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
+                                <hr> Both parties must be present with government issued photo I.D.
                             </div>
                           </div>
                       </div>
@@ -53,8 +54,6 @@
                                         <h3 class="panel-title">Remember</h3>
                                     </div>
                                     <div class="panel-body">
-                                        Both parties must be present with government issued photo I.D.
-                                        <hr>
                                         Marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
                                     </div>
                                 </div>
