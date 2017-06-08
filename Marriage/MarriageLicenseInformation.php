@@ -45,7 +45,7 @@
                                 <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
                                 <hr> The cost is 60.00 
-                                <br> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
+                                <br><br> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
                             </div>
                           </div>
                       </div>
@@ -66,7 +66,7 @@
                                     </div>
                                     <div class="panel-body">
                                         If one or both of those wishing to be married is under the age of 18, both parents must be present. If parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
-                                        <br> <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                        <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
                                     </div>
                                 </div>
                             </div>
