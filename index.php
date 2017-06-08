@@ -61,7 +61,7 @@
         <div class="jumbotron">
             <h1>Saline County Clerk</h1>
             <p>The County Clerk is the official bookkeeper of county government and serves as the clerk for the county court, quorum court and probate court. The Clerk serves as the secretary of the Board of Equalization and Intergovernmental Council Board.</p>
-            <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+            <p><a href="CountyClerk.php" class="btn btn-primary btn-lg">Learn more</a></p>
         </div>
         <div class="row">
             <div class="col-sm-4">
