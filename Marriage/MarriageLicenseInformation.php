@@ -56,7 +56,7 @@
                                         <h3 class="panel-title">Remember</h3>
                                     </div>
                                     <div class="panel-body">
-                                        Both parties must be present with government issued photo I.D.
+                                        Both parties must be present with a valid, government-issued photo I.D.
                                         <hr> Marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used, unused within sixty (60) days.
                                     </div>
                                 </div>
@@ -66,7 +66,7 @@
                                     </div>
                                     <div class="panel-body">
                                         If one or both of those wishing to be married is under the age of 18, both parents must be present. If parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
-                                        <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                        <br> <span style="font-style: italic;">(There is waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
                                     </div>
                                 </div>
                             </div>
