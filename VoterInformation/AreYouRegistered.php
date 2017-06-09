@@ -46,7 +46,7 @@
                             <span class="">First Name</span>
                           </label>
                           <br>
-                          <input type="text" name="nameFirst" maxlength="25" size="22" value="test" id="nameFirst" class="input-box">
+                          <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="input-box">
                         </div>
 
                         <div class="field-input">
@@ -55,7 +55,7 @@
                               <span class="">Last Name</span>
                             </label>
                             <br>
-                            <input type="text" name="nameLast" maxlength="25" size="22" value="ing" id="nameLast" class="input-box">
+                            <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="input-box">
                         </div>
                       </div>
 
