@@ -58,57 +58,46 @@
                         </div>
                       </li>
                       <li>
-                        <div class="timeline-badge primary"><i class="glyphicon glyphicon-credit-card"></i></div>
+                        <div class="timeline-badge primary"><i class="glyphicon glyphicon-briefcase"></i></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
-                            <h4 class="timeline-title">Mussum ipsum cacilds</h4>
+                            <h4 class="timeline-title">August 1st</h4>
                           </div>
                           <div class="timeline-body">
-                            <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                            <p>(A.C.A. 26-2-309) First meeting of the EQ Board - organization meeting and begin equalization process according to the report laid before it. Assessor delivers real and personal assessment rolls to EQ Board (A.C.A. 26-26-716)</p>
                           </div>
                         </div>
                       </li>
-                      <li class="timeline-inverted">
+                      <li class="timeline-inverted timeline-right">
+                        <div class="timeline-badge danger"><i class="glyphicon glyphicon-flash"></i></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
-                            <h4 class="timeline-title">Mussum ipsum cacilds</h4>
+                            <h4 class="timeline-title">August 21st</h4>
                           </div>
                           <div class="timeline-body">
-                            <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-                          </div>
-                        </div>
-                      </li>
-                      <li>
-                        <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
-                        <div class="timeline-panel">
-                          <div class="timeline-heading">
-                            <h4 class="timeline-title">Mussum ipsum cacilds</h4>
-                          </div>
-                          <div class="timeline-body">
-                            <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-                            <hr>
-                            <div class="btn-group">
-                              <button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown">
-                                <i class="glyphicon glyphicon-cog"></i> <span class="caret"></span>
-                              </button>
-                              <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Separated link</a></li>
-                              </ul>
-                            </div>
+                            <p>Last day for property owner to make appointment for hearing before the Board based on the Assessor's notice of assessment (third Monday in August). (A.C.A. 26-27-317a)</p>
                           </div>
                         </div>
                       </li>
                       <li>
+                        <div class="timeline-badge warning"><i class="glyphicon glyphicon-calendar"></i></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
-                            <h4 class="timeline-title">Mussum ipsum cacilds</h4>
+                            <h4 class="timeline-title">September 29th</h4>
                           </div>
                           <div class="timeline-body">
-                            <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                            <p>Last day for regular equalization meetings. Adjournment of regular session. (A.C.A. 26-27-311(a)(1)(A) (A.C.A. 26-27-309)</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="timeline-inverted timeline-right">
+                        <div class="timeline-badge primary"><i class="glyphicon glyphicon-calendar"></i></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-heading">
+                            <h4 class="timeline-title">October 2nd</h4>
+                          </div>
+                          <div class="timeline-body">
+                            <p>1st day the EQ Board may convene in special session, if necessary. (A.C.A. 26-27-311(a)(1)(A)</p>
                           </div>
                         </div>
                       </li>
