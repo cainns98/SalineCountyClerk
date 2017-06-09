@@ -136,3 +136,7 @@ padding-left:90px;
 .timeline-body > p + p {
   margin-top: 5px;
 }
+.timeline-badge i {
+    position: relative;
+    top: 3.5px;
+}
