@@ -42,7 +42,7 @@
                         </div>
 
                         <div class="field-input">
-                            <label class="control-label" for="nameLast">>Last Name</label>
+                            <label class="control-label" for="nameLast">Last Name</label>
                             <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="form-control">
                         </div>
 
