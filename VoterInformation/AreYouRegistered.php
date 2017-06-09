@@ -42,21 +42,14 @@
                         </div>
 
                         <div class="field-input">
-                            <label for="nameLast">
-                              <span class="required ">*</span>
-                              <span class="">Last Name</span>
-                            </label>
-                            <br>
-                            <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="input-box">
+                            <label class="control-label" for="nameLast">>Last Name</label>
+                            <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="form-control">
                         </div>
 
-                      <div class="field-row field-input">
-                          <label for="dobMonth">
-                            <span class="required ">*</span>
-                            <span class="">Date of Birth</span>
-                          </label>
-                          <br>
-                          <select name="dobMonth" size="1" id="dobMonth" class="input-box" title="Select your birth month">
+                      <div class="field-input">
+                        <label>Date of Birth</label>
+                        <div class="input-group">
+                          <select name="dobMonth" size="1" id="dobMonth" class="form-control" title="Select your birth month" placeholder="Month">
                               <option value="0" selected="selected">Month</option>
                               <option value="01">Jan</option>
                               <option value="02">Feb</option>
@@ -71,7 +64,7 @@
                               <option value="11">Nov</option>
                               <option value="12">Dec</option>
                            </select>
-                           <select name="dobDay" size="1" id="dobDay" class="input-box" title="Select your birth day">
+                           <select name="dobDay" size="1" id="dobDay" class="form-control" title="Select your birth day" placeholder="Day">
                               <option value="0" selected="selected">Day</option>
                               <option value="01">01</option>
                               <option value="02">02</option>
@@ -105,7 +98,7 @@
                               <option value="30">30</option>
                               <option value="31">31</option>
                             </select>
-                            <select name="dobYear" size="1" id="dobYear" class="input-box" title="Select your birth year">
+                            <select name="dobYear" size="1" id="dobYear" class="form-control" title="Select your birth year" placeholder="Year">
                               <option value="0" selected="selected">Year</option>
                               <option value="2001">2001</option>
                               <option value="2000">2000</option>
@@ -212,10 +205,11 @@
                               <option value="1899">1899</option>
                               <option value="1898">1898</option>
                             </select>
+                          </div>
                       </div>
 
                       <div class="search-button-box">
-                        <input type="submit" name="search" value="Search" class="search-button">	
+                        <input type="submit" name="search" value="Search" class="btn btn-primary">	
                       </div>
 
                     </form>
