@@ -64,6 +64,7 @@
                               <option value="11">Nov</option>
                               <option value="12">Dec</option>
                            </select>
+                           <span class="input-group-addon"></span>
                            <select name="dobDay" size="1" id="dobDay" class="form-control" title="Select your birth day" placeholder="Day">
                               <option value="0" selected="selected">Day</option>
                               <option value="01">01</option>
@@ -98,6 +99,7 @@
                               <option value="30">30</option>
                               <option value="31">31</option>
                             </select>
+                            <span class="input-group-addon"></span>
                             <select name="dobYear" size="1" id="dobYear" class="form-control" title="Select your birth year" placeholder="Year">
                               <option value="0" selected="selected">Year</option>
                               <option value="2001">2001</option>
