@@ -53,7 +53,7 @@
                           <div class="timeline-body">
                             <p>County Clerk's Office begins making appointments to go before the EQ Board</p>
                             <hr>
-                            <p>Call <a href="tel:+1-501-303-5630" class="btn btn-primary">(501)303-5630</a> to schedule an appointment.</p>
+                            <p>Call <a href="tel:+1-501-303-5630">(501)303-5630</a> to schedule an appointment.</p>
                           </div>
                         </div>
                       </li>
