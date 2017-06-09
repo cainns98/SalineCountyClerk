@@ -41,12 +41,12 @@
                           <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="form-control" autofocus>
                         </div>
 
-                        <div class="field-input">
+                        <div class="form-group">
                             <label class="control-label" for="nameLast">Last Name</label>
                             <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="form-control">
                         </div>
 
-                      <div class="field-input">
+                      <div class="form-group">
                         <label>Date of Birth</label>
                         <div class="input-group">
                           <select name="dobMonth" size="1" id="dobMonth" class="form-control" title="Select your birth month" placeholder="Month">
@@ -215,6 +215,7 @@
                       </div>
 
                     </form>
+                    <br />
                 </div>
             </div>
             <!-- Side Bar -->
