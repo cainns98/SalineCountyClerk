@@ -45,7 +45,7 @@
                         <label for="MDate">Marriage Date</label>
                         <input name="MDate" type="text" class="form-control datepicker" id="MDate" placeholder="Marriage Date" value="">
                       </div>
-                      <button type="submit" class="btn btn-default">SEARCH</button>
+                      <button type="submit" class="btn btn-primary">Search</button>
                       <input type="hidden" id="MM_query" name="MM_query" value="form1">
                     </form>
                     <br />
