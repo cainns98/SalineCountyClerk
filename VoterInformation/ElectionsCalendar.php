@@ -33,6 +33,7 @@
                     <h1 class="width-match-element">Saline County Elections Calendar</h1>
                     <br />
                     <iframe class="full-width" src="https://calendar.google.com/calendar/embed?src=v7fqv20af9oq01eh1s8q2bo010%40group.calendar.google.com&amp;ctz=America/Chicago" style="border: 0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+                    <br />
                 </div>
             </div>
             <!-- Side Bar -->
