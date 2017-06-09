@@ -91,7 +91,7 @@
                         </div>
                       </li>
                       <li class="timeline-inverted timeline-right">
-                        <div class="timeline-badge primary"><i class="glyphicon glyphicon-calendar"></i></div>
+                        <div class="timeline-badge primary"><i class="glyphicon glyphicon-briefcase"></i></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">October 2nd</h4>
@@ -101,14 +101,42 @@
                           </div>
                         </div>
                       </li>
-                      <li class="timeline-inverted">
-                        <div class="timeline-badge success"><i class="glyphicon glyphicon-thumbs-up"></i></div>
+                      <li>
+                        <div class="timeline-badge danger"><i class="glyphicon glyphicon-calendar"></i></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
-                            <h4 class="timeline-title">Mussum ipsum cacilds</h4>
+                            <h4 class="timeline-title">October 9th</h4>
                           </div>
                           <div class="timeline-body">
-                            <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                            <p>Last day to file an appeal in the County Court. (Second Monday in October) (A.C.A. 26-27-318(c)(1)</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="timeline-inverted timeline-right">
+                        <div class="timeline-badge success"><i class="glyphicon glyphicon-star"></i></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-heading">
+                            <h4 class="timeline-title">Special Session</h4>
+                          </div>
+                          <div class="timeline-body">
+                            <p>If ratio is below the percentage of true or fair market value, then special session may continue until, but not later than, the Third Monday in November. (A.C.A. 26-27-311)</p>
+                            <hr>
+                            <ol>
+                                <li>Completing its work of equalization of property assessments; or</li>
+                                <li>Reviewing or extending its work of equalization of property assessments.</li>
+                            </ol>
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="timeline-badge warning"><i class="glyphicon glyphicon-calendar"></i></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-heading">
+                            <h4 class="timeline-title">November 20th</h4>
+                          </div>
+                          <div class="timeline-body">
+                            <p>Last day of special session of EQ Board. (A.C.A. 26-27-311)</p>
+                            <p>Last date any assessment may be changed</p>
                           </div>
                         </div>
                       </li>
