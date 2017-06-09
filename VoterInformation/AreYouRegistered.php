@@ -38,7 +38,7 @@
 
                         <div class="form-group">
                           <label class="control-label" for="nameFirst">First Name</label>
-                          <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="form-control">
+                          <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="form-control" autofocus>
                         </div>
 
                         <div class="field-input">
