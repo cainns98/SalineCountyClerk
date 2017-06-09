@@ -16,7 +16,6 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
     <?php
-    chdir('../');
     require 'simple_html_dom.php';
     echo file_get_html('partials/favicons.html');
     ?>
