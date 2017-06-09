@@ -34,19 +34,11 @@
                     <br />
                     <form name="registrantSearchForm" method="post" action="https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do" onsubmit="this.action.value='Search';return validateRegistrantSearchForm(this)">
 
-                      <input type="hidden" name="action" value="">
-                      <span class="inner-title">Registrant Search</span>
-                      <div class="field-row field-input">
-                      </div>
+                        <input type="hidden" name="action" value="">
 
-                      <div class="field-row">
-                        <div class="field-input">
-                          <label for="nameFirst">
-                            <span class="required ">*</span>
-                            <span class="">First Name</span>
-                          </label>
-                          <br>
-                          <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="input-box">
+                        <div class="form-group">
+                          <label class="control-label" for="nameFirst">First Name</label>
+                          <input type="text" name="nameFirst" maxlength="25" size="22" id="nameFirst" class="form-control">
                         </div>
 
                         <div class="field-input">
@@ -57,7 +49,6 @@
                             <br>
                             <input type="text" name="nameLast" maxlength="25" size="22" id="nameLast" class="input-box">
                         </div>
-                      </div>
 
                       <div class="field-row field-input">
                           <label for="dobMonth">
@@ -222,13 +213,7 @@
                               <option value="1898">1898</option>
                             </select>
                       </div>
-                      <div class="field-row">
-                      </div>
 
-                      <div class="search-explanation">
-                        <span class="required">*</span>
-                        Denotes a required field.
-                      </div>
                       <div class="search-button-box">
                         <input type="submit" name="search" value="Search" class="search-button">	
                       </div>
