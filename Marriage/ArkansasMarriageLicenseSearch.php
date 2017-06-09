@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Are You Registered?</title>
+    <title>Marriage License Search</title>
     <base href="http://salinecountyclerk.azurewebsites.net">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -30,20 +30,20 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Are You Registered?</h1>
+                    <h1>Arkansas Marriage License Search</h1>
                     <br />
                     <form action="http://marriage.cisarkansas.com/index.asp?C=Saline" method="post" name="form1" id="form1" role="form">
                       <div class="form-group">
                         <label for="FName">Spouse First Name</label>
-                        <input name="FName" type="text" class="form-control" id="FName" placeholder="Spouse First Name">
+                        <input name="FName" type="text" class="form-control" id="FName" >
                       </div>
                       <div class="form-group">
                         <label for="LName">Spouse Last Name</label>
-                        <input name="LName" type="text" class="form-control" id="LName" placeholder="Spouse Last Name">
+                        <input name="LName" type="text" class="form-control" id="LName" >
                       </div>
                       <div class="form-group">
                         <label for="MDate">Marriage Date</label>
-                        <input name="MDate" type="text" class="form-control datepicker" id="MDate" placeholder="Marriage Date" value="">
+                        <input name="MDate" type="text" class="form-control datepicker" id="MDate" value="">
                       </div>
                       <button type="submit" class="btn btn-primary">Search</button>
                       <input type="hidden" id="MM_query" name="MM_query" value="form1">
