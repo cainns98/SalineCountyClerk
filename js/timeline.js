@@ -6,7 +6,7 @@ $( document ).ready(function() {
         // For XS and SM
         if( viewport.is('<md') ) {
             $(".timeline-right").toggleClass( "timeline-inverted", false );
-            $("ul.timeline").attr("width", width * 2);
+            $("ul.timeline").css("width", width * 2);
         }
 
         // For MD and LG
@@ -20,12 +20,12 @@ $( document ).ready(function() {
                 if( viewport.is('<md') ) {
                     $(".timeline-right").toggleClass( "timeline-inverted", false );
                     width = $(".width-match-element").first().width();
-                    $("ul.timeline").attr("width", width * 2);
+                    $("ul.timeline").css("width", width * 2);
                 }
                 if( viewport.is('>=md') ) {
                     $(".timeline-right").toggleClass( "timeline-inverted", true );
                     width = $(".width-match-element").first().width();
-                    $("ul.timeline").attr("width", width);
+                    $("ul.timeline").css("width", width);
                 }
             })
         ); 
