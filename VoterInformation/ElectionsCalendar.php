@@ -30,9 +30,9 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Saline County Elections Calendar</h1>
+                    <h1 class="width-match-element">Saline County Elections Calendar</h1>
                     <br />
-                    <iframe src="https://calendar.google.com/calendar/embed?src=v7fqv20af9oq01eh1s8q2bo010%40group.calendar.google.com&amp;ctz=America/Chicago" style="border: 0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+                    <iframe class="full-width" src="https://calendar.google.com/calendar/embed?src=v7fqv20af9oq01eh1s8q2bo010%40group.calendar.google.com&amp;ctz=America/Chicago" style="border: 0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
                 </div>
             </div>
             <!-- Side Bar -->
@@ -66,6 +66,8 @@
         </div>
 
     </footer>
+    <script type="text/javascript" src="js/bootstrap-toolkit.min.js"></script>
+    <script type="text/javascript" src="js/iframeFullWidth.js"></script>
 </body>
 
 </html>
