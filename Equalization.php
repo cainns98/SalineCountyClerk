@@ -31,7 +31,8 @@
             <div class="col-md-9">
                 <div class="container-fluid" style="overflow: hidden;">
                     <h1 class="width-match-element">2017 Equalization Timeline</h1>
-                    <br />
+                    <a class="btn btn-primary" href="#">Print Timeline</a>
+                    <br><br>
                     <ul class="timeline">
                       <li>
                         <div class="timeline-badge primary"><i class="glyphicon glyphicon-envelope"></i></div>
