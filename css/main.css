@@ -87,7 +87,7 @@ body {
   background-size: 75% auto;
 }
 
-.jumbotron, .panel, .list-group, .footer {
+.jumbotron, .panel, .list-group, .footer, .timeline > li > .timeline-panel {
     opacity: 0.75;
     filter: alpha(opacity=75);
 }
