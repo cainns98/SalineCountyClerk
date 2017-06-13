@@ -29,7 +29,7 @@
         <div class="row">
             <!-- MAIN -->
             <div class="col-md-9">
-                <div class="container-fluid">
+                <div class="container-fluid" style="overflow: hidden;">
                     <h1 class="width-match-element">2017 Equalization Timeline</h1>
                     <br />
                     <ul class="timeline">
