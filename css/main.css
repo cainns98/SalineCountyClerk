@@ -88,6 +88,6 @@ body {
 }
 
 .jumbotron, .panel, .list-group, .footer, .timeline > li > .timeline-panel {
-    opacity: 0.75;
-    filter: alpha(opacity=75);
+    opacity: 0.80;
+    filter: alpha(opacity=80);
 }
