@@ -78,5 +78,5 @@ body {
 }
 
 body {
-  background-image: url('img/CH.png');
+  background-image: url('img/CH.png') no-repeat bottom right fixed;
 }
