@@ -46,7 +46,7 @@
                       </li>
                       <li class="timeline-inverted timeline-right">
                         <div class="timeline-badge success"><i class="glyphicon glyphicon-calendar"></i></div>
-                        <div class="timeline-panel">
+                        <div class="timeline-panel" style="z-index: 1;">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">July 10th</h4>
                           </div>
