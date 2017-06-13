@@ -77,10 +77,14 @@ body {
   border-right: 1px solid #dddddd;
 }
 
+/* BACKGROUND IMAGE */
+
 body {
   background: url(../img/background.jpg) no-repeat bottom right;
   -o-background-size: 75% auto;
   -webkit-background-size: 75% auto;
   -moz-background-size: 75% auto;
   background-size: 75% auto;
+  opacity: 0.75;
+  filter: alpha(opacity=75);
 }
