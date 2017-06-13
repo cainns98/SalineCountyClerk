@@ -81,10 +81,6 @@ body {
 
 body {
   background: url(../img/background.jpg) no-repeat bottom right;
-  -o-background-size: 75% auto;
-  -webkit-background-size: 75% auto;
-  -moz-background-size: 75% auto;
-  background-size: 75% auto;
 }
 
 .jumbotron, .panel, .list-group, .footer, .timeline > li > .timeline-panel {
