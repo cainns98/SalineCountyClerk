@@ -76,3 +76,7 @@ body {
 .split-list-group-item .left.horizontal {
   border-right: 1px solid #dddddd;
 }
+
+body {
+  background-image: url('img/CH.png');
+}
