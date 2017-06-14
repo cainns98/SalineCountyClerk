@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Election Results</title>
+    <title>Offices, Candidates, & Issues</title>
     <base href="http://www.salineclerk.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -30,7 +30,7 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Election Results</h1>
+                    <h1>Offices, Candidates, and Issues</h1>
                     <br />
                     <ul class="nav nav-tabs">
                       <li class="active"><a href="#electedOfficials" data-toggle="tab" aria-expanded="true">Elected Officials</a></li>
