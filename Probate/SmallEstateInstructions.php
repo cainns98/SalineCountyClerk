@@ -36,7 +36,7 @@
                     <div class="alert alert-warning">
                         <h4 style="margin: 0px">Remember: We cannot offer legal advice. Should you need legal advice you will need to consult an attorney.</h4>
                     </div>
-                    <div class="legal-tab">
+                    <div class="legal-tab legal-tab-top">
                         <p>(a) The distributee of an estate shall be entitled thereto without the appointment of a personal representative when: </p>
                         <div class="legal-tab">
                             <p>(1) No petition for the appointment of a personal representative is pending or has been granted;</p>
