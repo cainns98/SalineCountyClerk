@@ -33,6 +33,9 @@
                 <div class="container-fluid">
                     <h1>Small Estate Instructions</h1>
                     <br />
+                    <div class="alert alert-warning">
+                        <h4 style="margin: 0px">Remember: We cannot offer legal advice. Should you need legal advice you will need to consult an attorney.</h4>
+                    </div>
                     <div class="legal-tab">
                         <p>(a) The distributee of an estate shall be entitled thereto without the appointment of a personal representative when: </p>
                         <div class="legal-tab">
