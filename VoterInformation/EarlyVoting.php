@@ -3,7 +3,7 @@
 
 <head>
     <title>Early Voting</title>
-    <base href="http://salinecountyclerk.azurewebsites.net">
+    <base href="http://www.salineclerk.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
