@@ -37,10 +37,10 @@
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/AR62_Absentee_Ballot_Application.pdf" target="_blank" class="list-group-item">
                           Absentee Ballot Application
                       </a>
-                      <a href="#" target="_blank" class="list-group-item">
+                      <a href="#" target="_blank" class="list-group-item hidden">
                           Rules & Regulations
                       </a>
-                      <a href="#" target="_blank" class="list-group-item">
+                      <a href="#" target="_blank" class="list-group-item hidden">
                           Dates & Deadlines
                       </a>
                     </div>
