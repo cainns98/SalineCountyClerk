@@ -87,7 +87,7 @@ body {
   background-size: 1150px;
 }
 
-.jumbotron, .panel, .list-group, .footer, .timeline > li > .timeline-panel {
+.jumbotron, .panel, .list-group, .footer, .timeline > li > .timeline-panel, legal-tab-top {
     opacity: 0.85;
     filter: alpha(opacity=85);
 }
