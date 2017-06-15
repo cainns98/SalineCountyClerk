@@ -3,10 +3,6 @@
   font-style: italic;
 }
 
-.news-link {
-  color: #004732 !important;
-}
-
 /* INFO PANEL */
 .panel-list-group
 {
@@ -30,9 +26,8 @@
 {
     border-bottom: 0;
 }
-.post-date 
-{
-    display: block;
+.news-link {
+  color: #004732 !important;
 }
 
 /* STICKY FOOTER */
