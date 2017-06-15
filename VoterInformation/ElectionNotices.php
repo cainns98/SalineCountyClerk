@@ -30,7 +30,7 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Canidate Filing</h1>
+                    <h1>Election Notices</h1>
                     <br />
                     <div class="list-group">
                       <h4 class="list-group-item active">Upcoming Elections</h4>
