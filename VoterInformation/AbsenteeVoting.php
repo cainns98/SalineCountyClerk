@@ -34,7 +34,7 @@
                     <br />
                     <div class="list-group">
                       <h4 class="list-group-item active">Ballot Application</h4>
-                      <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/AR62_Absentee_Ballot_Application.pdf" target="_blank" class="list-group-item">
+                      <a href="/content/voterInformation/AR62AbsenteeBallotApplication.pdf" target="_blank" class="list-group-item">
                           Absentee Ballot Application
                       </a>
                       <a href="#" target="_blank" class="list-group-item hidden">
