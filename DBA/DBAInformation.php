@@ -51,7 +51,7 @@
                       <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/DBA/DBA%20Info.pdf" target="_blank" class="list-group-item">
                           Doing Business Under Assumed Name (DBA) Information Sheet
                       </a>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/DBA/DBA%20Certificate.pdf" target="_blank" class="list-group-item">
+                      <a href="/content/dba/DBACertificate.pdf" target="_blank" class="list-group-item">
                           Doing Business Under Assumed Name (DBA) Certificate
                       </a>
                     </div>
