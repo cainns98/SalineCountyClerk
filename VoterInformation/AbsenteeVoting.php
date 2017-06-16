@@ -37,6 +37,25 @@
                       <a href="/content/voterInformation/AR62AbsenteeBallotApplication.pdf" target="_blank" class="list-group-item">
                           Absentee Ballot Application
                       </a>
+                      <div class="list-group-item"><span class="italic">Your Application for an Absentee Ballot may be mailed, emailed, or faxed:</span>
+                        <br><br>
+                        <div class="container-fluid">
+                            <div class="col-md-4">
+                                Mail: <br>
+                                Saline County Clerk <br>
+                                215 N. Main <br>
+                                Benton, AR 72015
+                            </div>
+                            <div class="col-md-4">
+                                E-mail: vicki.deere@salinecounty.org
+                            </div>
+                            <div class="col-md-4">
+                                Fax: (501) 776-2412
+                            </div>
+                        </div>
+                        <br>
+                        <span class="italic">Please remember to check the deadline for submitting the application by mail, email, or fax.</span>
+                      </div>
                       <a href="#" target="_blank" class="list-group-item hidden">
                           Rules & Regulations
                       </a>
