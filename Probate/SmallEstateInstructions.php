@@ -66,10 +66,10 @@
                       <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Probate/Small%20Estate%20Instructions.pdf" target="_blank" class="list-group-item">
                           Small Estate Instructions Printout
                       </a>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Probate/Small%20Estate%20Affidavit.pdf" target="_blank" class="list-group-item">
+                      <a href="/content/probate/SmallEstateAffidavit.pdf" target="_blank" class="list-group-item">
                           Small Estate Affidavit
                       </a>
-                      <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Probate/Small%20Estate%20Notice.pdf" target="_blank" class="list-group-item">
+                      <a href="/content/probate/SmallEstateNotice.pdf" target="_blank" class="list-group-item">
                           Small Estate Notice
                       </a>
                     </div>
