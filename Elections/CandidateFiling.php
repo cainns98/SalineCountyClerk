@@ -56,7 +56,7 @@
                           <div class="container-fluid">
                             <div class="row">
                               <div class="col-sm-8 left" style="padding: 0px;">
-                                <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04_CE_Cnty-Mun-SchlBd_Report_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Campaign Contribution and Expenditure Report</a>
+                                <a href="/content/elections/CampaignContributionandExpenditureReport.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Campaign Contribution and Expenditure Report</a>
                               </div>
                               <div class="col-sm-4" style="padding: 0px;">
                                 <a href="http://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/04-I_CE_Cnty-Mun-SchBd_Instr_2015.pdf" class="list-group-item" style="border: 0px; border-radius: 0px;">Instructions</a>
