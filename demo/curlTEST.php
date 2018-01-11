@@ -10,12 +10,12 @@
     'search' => 'Search'
   );  
  
-  $curl = curl_init('https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do');
+  $curl = curl_init();
    
   // We POST the data
   curl_setopt($curl, CURLOPT_POST, 1);
   // Set the url path we want to call
-  //curl_setopt($curl, CURLOPT_URL, 'http://localhost/helloservice.php');  
+  curl_setopt($curl, CURLOPT_URL, 'https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do');  
   // Make it so the data coming back is put into a string
   curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
   // Insert the data
