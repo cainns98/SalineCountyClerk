@@ -24,7 +24,7 @@
   // You can also bunch the above commands into an array if you choose using: curl_setopt_array
    
   // Send the request
-  echo curl_getinfo($curl);
+  print_r( curl_getinfo($curl) );
   $result = curl_exec($curl);
   // Free up the resources $curl is using
   curl_close($curl);
