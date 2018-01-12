@@ -101,14 +101,9 @@
         </div>
 
     </div>
-    <footer class="footer">
-        <div class="container text-center">
-            <a href="https://www.facebook.com/DougCurtisAR/"     style="margin-right: 25px;"><i class="fa fa-facebook"></i></a>
-            
-            <a href="https://twitter.com/DougCurtisAR"><i class="fa fa-twitter"></i></a>
-        </div>
-
-    </footer>
+    <?php
+    echo file_get_html('partials/footer.html');
+    ?>
 </body>
 
 </html>
