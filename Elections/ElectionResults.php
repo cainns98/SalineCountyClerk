@@ -62,7 +62,7 @@
                       
                     </ul>
                     <div id="myTabContent" class="tab-content">
-                      <div class="tab-pane fade active in" id="2018">
+                      <div class="tab-pane fade" id="2018">
                         <br />
                         <div class="alert alert-warning">
                           <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
