@@ -216,6 +216,12 @@
 
                     </form>
                     <br />
+                    
+                    <h1>Not Registered?</h1>
+                    <br />
+                    <a href="/content/voterInformation/ArkansasVoterRegistrationApplication.pdf" class="btn btn-primary">Register Now</a>
+                    <br />
+                    
                 </div>
             </div>
             <!-- Side Bar -->
