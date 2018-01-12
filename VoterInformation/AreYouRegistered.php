@@ -221,6 +221,7 @@
                     <br />
                     <a href="/content/voterInformation/ArkansasVoterRegistrationApplication.pdf" class="btn btn-primary">Register Now</a>
                     <br />
+                    <br />
                     
                 </div>
             </div>
