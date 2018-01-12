@@ -71,6 +71,27 @@
                       <div class="tab-pane fade active in" id="2017">
                         <br />
                         <div class="list-group">
+                          <h4 class="list-group-item active">City of Alexander Special Election – November 14, 2017</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20171114_AXSE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20171114_AXSE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                          <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYpVXyyplszajvmm30-k9QDxCMsrKc8cBjy0782KEgMjkoFwWVohrJnuFk35FUdPPyU3hqzttKMKaw/pub?output=pdf" target="_blank" class="list-group-item">
+                              Saline/Pulaski Vote Summary
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Annual School Election – September 19, 2017</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170919_ASE_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170919_ASE_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
                           <h4 class="list-group-item active">Benton School Special Election - May 9, 2017</h4>
                           <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_20170509_BNSE_S.HTM" target="_blank" class="list-group-item">
                               Summary Report
