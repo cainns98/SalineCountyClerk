@@ -70,13 +70,13 @@
                           <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
                         </div>
                       </div>
-                      <div class="tab-pane fade" id="2018">
+                      <div class="tab-pane fade active in" id="2018">
                         <br />
                         <div class="alert alert-warning">
                           <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
                         </div>
                       </div>
-                      <div class="tab-pane fade active in" id="2017">
+                      <div class="tab-pane fade" id="2017">
                         <br />
                         <div class="list-group">
                           <h4 class="list-group-item active">City of Alexander Special Election – November 14, 2017</h4>
