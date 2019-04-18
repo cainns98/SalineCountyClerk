@@ -64,6 +64,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- 
                     <div class="list-group">
                       <h4 class="list-group-item active">Links and Resources</h4>
                       <a href="https://dpnfam.net/elecprep/wp-content/downloads/AR/Saline/Marriage/Marriage%20License%20Info.pdf" target="_blank" class="list-group-item">
@@ -73,6 +74,7 @@
                           Arkansas Marriage License Search
                       </a>
                     </div>
+                    -->
                 </div>
               
             </div>
