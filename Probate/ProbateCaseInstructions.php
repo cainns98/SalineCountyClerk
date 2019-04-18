@@ -58,15 +58,7 @@
                                     <div class="panel-body">
                                         You must have the $165.00 ready to pay when the case is opened.
                                         <hr> When opening a probate case you are required to have a cover sheet. Please have the cover sheet filled out before arrival. If you do not have one, we can provide you with one.
-                                    </div>
-                                </div>
-                                <div class="panel panel-warning text-center">
-                                    <div class="panel-heading">
-                                        <h3 class="panel-title">Remember</h3>
-                                    </div>
-                                    <div class="panel-body">
-                                        We cannot give any legal advice whatsoever. If you are wanting legal advice, we have a free legal advice phone number available for you to contact. 
-                                        <span style="font-style: italic;">(There is no waiting period to set up a probate case.)</span>
+                                        <hr> We cannot give any legal advice whatsoever. If you are wanting legal advice, we have a free legal advice phone number available for you to contact. 
                                     </div>
                                 </div>
                             </div>
