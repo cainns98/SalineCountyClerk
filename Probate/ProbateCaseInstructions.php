@@ -30,7 +30,7 @@
             <!-- MAIN -->
             <div class="col-md-9"
                 <div class="container-fluid">
-                    <h1>Marriage License Information</h1>
+                    <h1>Probate Case Instructions</h1>
                     <br>
                     <div class="row">
                       <div class="col-md-5">
@@ -44,7 +44,7 @@
                                 <hr> Address:
                                 <br> Saline County Clerk's Office <br> 215 North Main Street, Suite 9 <br> Benton, AR 72015 <br>
                                 <hr> Phone: <a href="tel:+1-501-303-5630">501-303-5630</a>
-                                <hr> The cost is 60.00 
+                                <hr> The cost is 165.00 
                                 <br><br> <span style="font-style: italic;">We accept cash, local checks, or credit/debit cards with a $3 processing fee.</span>
                             </div>
                           </div>
@@ -56,17 +56,17 @@
                                         <h3 class="panel-title">Remember</h3>
                                     </div>
                                     <div class="panel-body">
-                                        Both parties must be present with a valid, government-issued photo I.D.
-                                        <hr> A marriage license is valid sixty (60) days from date of issuance. The license must be returned to our office for recording, whether used or unused within sixty (60) days.
+                                        You must have the $165.00 ready to pay when the case is opened.
+                                        <hr> When opening a probate case you are required to have a cover sheet. Please have the cover sheet filled out before arrival. If you do not have one, we can provide you with one.
                                     </div>
                                 </div>
                                 <div class="panel panel-warning text-center">
                                     <div class="panel-heading">
-                                        <h3 class="panel-title">For Underage Individuals</h3>
+                                        <h3 class="panel-title">Remember</h3>
                                     </div>
                                     <div class="panel-body">
-                                        If one or both of those wishing to be married is under the age of 18, both parents must be present. If the parents are divorced, the custodial parent will need to be present with the latest court order granting custody. 
-                                        <span style="font-style: italic;">(There is a waiting period of five (5) business days before the license can be picked up in such a marriage)</span>
+                                        We cannot give any legal advice whatsoever. If you are wanting legal advice, we have a free legal advice phone number available for you to contact. 
+                                        <span style="font-style: italic;">(There is no waiting period to set up a probate case.)</span>
                                     </div>
                                 </div>
                             </div>
