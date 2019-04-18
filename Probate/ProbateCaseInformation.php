@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Probate Case Instuctions</title>
+    <title>Probate Case Information</title>
     <base href="http://salinecountyclerk.azurewebsites.net">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -30,7 +30,7 @@
             <!-- MAIN -->
             <div class="col-md-9">
                 <div class="container-fluid">
-                    <h1>Probate Case Instructions</h1>
+                    <h1>Probate Case Information</h1>
                     <br>
                     <div class="row">
                       <div class="col-md-5">
