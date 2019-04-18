@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row">
             <!-- MAIN -->
-            <div class="col-md-9"
+            <div class="col-md-9">
                 <div class="container-fluid">
                     <h1>Probate Case Instructions</h1>
                     <br>
