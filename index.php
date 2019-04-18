@@ -61,7 +61,7 @@
         <div class="jumbotron">
             <h1>Doug Curtis</h1>
             <h2 style="margin-top: 11px;">Saline County Clerk</h2>
-            <p>The County Clerk is the official bookkeeper of county government and serves as the clerk for the county court, quorum court and probate court. The Clerk serves as the secretary of the Board of Equalization and Intergovernmental Council Board.</p>
+            <p>The County Clerk is the official bookkeeper of the county government and serves as the clerk for the county court, quorum court and probate court. The Clerk serves as the secretary of the Board of Equalization and Intergovernmental Council Board.</p>
             <p><a href="CountyClerk.php" class="btn btn-primary btn-lg">Learn more</a></p>
         </div>
         <div class="row">
