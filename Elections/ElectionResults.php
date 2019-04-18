@@ -33,15 +33,16 @@
                     <h1>Election Results</h1>
                     <br />
                     <ul class="nav nav-tabs">
-                      <li class=""><a href="#2018" data-toggle="tab" aria-expanded="false">2018</a></li>
-                      <li class="active"><a href="#2017" data-toggle="tab" aria-expanded="true">2017</a></li>
-                      <li class=""><a href="#2016" data-toggle="tab" aria-expanded="false">2016</a></li>
+                      <li class=""><a href="#2019" data-toggle="tab" aria-expanded="false">2019</a></li>
+                      <li class="active"><a href="#2018" data-toggle="tab" aria-expanded="true">2018</a></li>
+                      <li class=""><a href="#2017" data-toggle="tab" aria-expanded="flase">2017</a></li>
+                      <li class="hidden-xs"><a href="#2016" data-toggle="tab" aria-expanded="false">2016</a></li>
                       <li class="hidden-xs"><a href="#2015" data-toggle="tab" aria-expanded="false">2015</a></li>
                       <li class="hidden-xs"><a href="#2014" data-toggle="tab" aria-expanded="false">2014</a></li>
                       <li class="hidden-xs"><a href="#2013" data-toggle="tab" aria-expanded="false">2013</a></li>
                       <li class="hidden-xs"><a href="#2012" data-toggle="tab" aria-expanded="false">2012</a></li>
                       <li class="hidden-xs"><a href="#2011" data-toggle="tab" aria-expanded="false">2011</a></li>
-                      <li class="hidden-xs"><a href="#2010" data-toggle="tab" aria-expanded="false">2010</a></li>
+                      <li class="visible-lg-block"><a href="#2010" data-toggle="tab" aria-expanded="false">2010</a></li>
                       <li class="visible-lg-block"><a href="#2009" data-toggle="tab" aria-expanded="false">2009</a></li>
                       <li class="visible-lg-block"><a href="#2008" data-toggle="tab" aria-expanded="false">2008</a></li>
                       <li class="dropdown hidden-lg">
@@ -49,12 +50,13 @@
                           Older <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">                          
+                          <li class="hidden-lg hidden-md hidden-sm"><a href="#2016" data-toggle="tab" aria-expanded="false">2016</a></li>
                           <li class="hidden-lg hidden-md hidden-sm"><a href="#2015" data-toggle="tab" aria-expanded="false">2015</a></li>
                           <li class="hidden-lg hidden-md hidden-sm"><a href="#2014" data-toggle="tab" aria-expanded="false">2014</a></li>
                           <li class="hidden-lg hidden-md hidden-sm"><a href="#2013" data-toggle="tab" aria-expanded="false">2013</a></li>
                           <li class="hidden-lg hidden-md hidden-sm"><a href="#2012" data-toggle="tab" aria-expanded="false">2012</a></li>
                           <li class="hidden-lg hidden-md hidden-sm"><a href="#2011" data-toggle="tab" aria-expanded="false">2011</a></li>
-                          <li class="hidden-lg hidden-md hidden-sm"><a href="#2010" data-toggle="tab" aria-expanded="false">2010</a></li>
+                          <li class=""><a href="#2010" data-toggle="tab" aria-expanded="false">2010</a></li>
                           <li class=""><a href="#2009" data-toggle="tab" aria-expanded="false">2009</a></li>
                           <li class=""><a href="#2008" data-toggle="tab" aria-expanded="false">2008</a></li>
                         </ul>
@@ -62,6 +64,12 @@
                       
                     </ul>
                     <div id="myTabContent" class="tab-content">
+                      <div class="tab-pane fade" id="2019">
+                        <br />
+                        <div class="alert alert-warning">
+                          <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
+                        </div>
+                      </div>
                       <div class="tab-pane fade" id="2018">
                         <br />
                         <div class="alert alert-warning">
