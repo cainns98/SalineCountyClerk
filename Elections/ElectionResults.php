@@ -67,13 +67,43 @@
                       <div class="tab-pane fade" id="2019">
                         <br />
                         <div class="alert alert-warning">
-                          <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
+                          <h4 style="margin: 0px">There have been no elections during 2019 thus far.</h4>
                         </div>
                       </div>
                       <div class="tab-pane fade active in" id="2018">
                         <br />
-                        <div class="alert alert-warning">
-                          <h4 style="margin: 0px">There have been no elections during 2018 thus far.</h4>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election Runoff – December 4, 2018</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62GR18_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62GR18_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">General Election – November 6, 2018</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62G18_Summary.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62G18_Precincts.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                          <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTzmQeZOMAf56_hBpgDiKcNhyiiaYZtx-bmtUW11oKrWSy-NVzi_9vmHmPml1jLbpPiAA_ti-fvx1Yu/pub?output=pdf" target="_blank" class="list-group-item">
+                              Saline/Pulaski Vote Summary
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <h4 class="list-group-item active">Preferential Primary, Nonpartisan General & Annual School Election - May 22, 2018</h4>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_2018_PP_S.HTM" target="_blank" class="list-group-item">
+                              Summary Report
+                          </a>
+                          <a href="https://elecprep.net/wp-content/downloads/AR/Saline/Results/AR62_2018_PP_P.HTM" target="_blank" class="list-group-item">
+                              Precinct Report
+                          </a>
+                          <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwt_JOhu-0DsCWr73Z5v_vwaqIU-QvTVkEWcPX0GSCHaKOa5c2qKrPoZdi4XECYbVprSR8S--VMVy5/pubhtml" target="_blank" class="list-group-item">
+                              Saline/Garland Vote Summary
+                          </a>
                         </div>
                       </div>
                       <div class="tab-pane fade" id="2017">
